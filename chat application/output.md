@@ -15,7 +15,9 @@ Client: How do you do?
 Server: I'm fine. How about you?
 Client: I'm good. Bye for now.
 Server: bye
+Connection closed.
 
+D:\ai&ds\4th sem\cn\cn programs>
 
 Client Output:
 
@@ -29,4 +31,6 @@ Client: How do you do?
 Server: I'm fine. How about you?
 Client: I'm good. Bye for now.
 Server: bye
-Client:
+Connection closed.
+
+D:\ai&ds\4th sem\cn\cn programs>
